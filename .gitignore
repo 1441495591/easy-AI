@@ -1,0 +1,13 @@
+# Claude Code 本机专属配置（权限、本地设置），不要提交到仓库
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 系统文件
+.DS_Store
+Thumbs.db
